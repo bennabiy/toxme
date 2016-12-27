@@ -53,7 +53,7 @@ pip3 install -r misc/requirements.txt
 #####Ubuntu
 ```apt-get install libpq-dev```
 
-#####All
+#####All (for Ubuntu, use pip3 instead of pip)
 ```pip install psycopg2```
 
 
